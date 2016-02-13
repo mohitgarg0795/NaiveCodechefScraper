@@ -1,1 +1,1 @@
-"# NaiveCodechefScraper" 
+"NaiveCodechefScraper" 
